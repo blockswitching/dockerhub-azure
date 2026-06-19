@@ -28,7 +28,8 @@ Nginx (reverse proxy on port 80)
 ## Prerequisites
 
 - Azure VM running **Ubuntu 22.04 LTS** (or similar)
-- Port **80** open in Azure Network Security Group (NSG)
+- Port **80** HTTP - open in Azure Network Security Group (NSG)
+- Port **22** SSH - open in Azure Network Security Group (NSG)
 - Your Flask Docker image pushed to **Docker Hub**
 - SSH access to the VM
 
