@@ -1,7 +1,7 @@
 # 🐳 Flask App Deployment on Azure VM — Docker Hub + Nginx
 
 > **No Git. No Jenkins. No Kubernetes. No Terraform.**
-> A clean, production-ready setup using Docker Hub, Docker Compose, and Nginx.
+> A clean setup using Docker Hub, Docker Compose, and Nginx.
 
 ---
 
